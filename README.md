@@ -1,5 +1,5 @@
 CS6910-Assignment2
-Assignment 2 of the CS6910: Fundamentals of Deep Learning course by Sujay Bokil (ME17B120) and Avyay Rao (ME17B130)
+ Fundamentals of Deep Learning course by K Sreya (AP23122040008) and o Gayathri (Ap23122040009)
 
 Part A
 The notebook is structured to be run cell by cell.
