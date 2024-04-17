@@ -1,10 +1,11 @@
-CS6910-Assignment2
- Fundamentals of Deep Learning course by K Sreya (AP23122040008) and o Gayathri (Ap23122040009)
+CLA 2
+  Deep Learning course CLA 2 K Sreya (AP23122040008) and o Gayathri (Ap23122040009)
 
 Part A
 The notebook is structured to be run cell by cell.
 
-Next, the google drive needs to be mounted and the iNaturalist file needs to be unzipped. This part of the code will need to be modified according to the filepath on your local machine.
+Next, the google drive needs to be mounted and the iNaturalist file needs to be unzipped. 
+This part of the code will need to be modified according to the filepath on your local machine.
 
 #Mount Google Drive
 from google.colab import drive
